@@ -17,22 +17,22 @@
     "16305662177c5c5f1e": {
       "type": "image-with-text",
       "blocks": {
-        "16305662177c5c5f1e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text"
-          }
-        },
         "16305662177c5c5f1e-1": {
           "type": "text",
           "settings": {
             "text": "<p>Catalin Costinas<\/p>"
           }
+        },
+        "16305662177c5c5f1e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Shopify Developer"
+          }
         }
       },
       "block_order": [
-        "16305662177c5c5f1e-0",
-        "16305662177c5c5f1e-1"
+        "16305662177c5c5f1e-1",
+        "16305662177c5c5f1e-0"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/IMG-20210727-WA0006.jpg",
