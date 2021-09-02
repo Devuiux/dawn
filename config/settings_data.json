@@ -42,6 +42,18 @@
       },
       "footer": {
         "type": "footer",
+        "blocks": {
+          "e4d491cb-76d7-4508-a532-ba0915996a83": {
+            "type": "text",
+            "settings": {
+              "heading": "Contact",
+              "subtext": "<p>I can help you with all your Shopify questions.<br\/>Catalin Costinas<br\/>Cluj Napoca, Romania <br\/><a href=\"mailto:hello@costinas.com\" title=\"Email me at hello@costinas.com\">hello@costinas.com<\/a><br\/><a href=\"https:\/\/www.linkedin.com\/in\/catalin-costinas-959560b0\/\" title=\"My Linkedin profile\">linkedin<\/a><\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "e4d491cb-76d7-4508-a532-ba0915996a83"
+        ],
         "settings": {
           "color_scheme": "background-1",
           "newsletter_enable": false,
