@@ -40,10 +40,37 @@
         "color_scheme": "background-1",
         "layout": "text_first"
       }
+    },
+    "16305663810ca2c41e": {
+      "type": "rich-text",
+      "blocks": {
+        "16305663810ca2c41e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Services",
+            "heading_size": "h2"
+          }
+        },
+        "16305663810ca2c41e-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Theme Development<br\/>Complete Shopify Store Setup to get you up and running<br\/>Shopify Application Development \/ App Installation<br\/>Tweaking and modifying existing themes whether it is big or small<br\/>Performance optimization<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16305663810ca2c41e-0",
+        "16305663810ca2c41e-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
     "multi_column",
-    "16305662177c5c5f1e"
+    "16305662177c5c5f1e",
+    "16305663810ca2c41e"
   ]
 }
