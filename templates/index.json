@@ -79,12 +79,39 @@
         "soft_background": false,
         "show_view_all": true
       }
+    },
+    "16305666856d5d2711": {
+      "type": "rich-text",
+      "blocks": {
+        "16305666856d5d2711-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "About me",
+            "heading_size": "h2"
+          }
+        },
+        "16305666856d5d2711-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In this intense period of online development the entrepreneurs who succeed are those who understand the need for simple innovative solutions and fast implementation. I’ve always developed ways for fast implementation to save time both for me and my clients and built projects with performance and maintainability in mind.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16305666856d5d2711-0",
+        "16305666856d5d2711-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
     "multi_column",
     "16305662177c5c5f1e",
     "16305663810ca2c41e",
-    "163056668234f3abf8"
+    "163056668234f3abf8",
+    "16305666856d5d2711"
   ]
 }
