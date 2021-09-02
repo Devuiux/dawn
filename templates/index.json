@@ -105,6 +105,32 @@
         "color_scheme": "background-1",
         "full_width": true
       }
+    },
+    "16305674130a4d2ea1": {
+      "type": "rich-text",
+      "blocks": {
+        "16305674130a4d2ea1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Contact",
+            "heading_size": "h2"
+          }
+        },
+        "16305674130a4d2ea1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I can help you with all your Shopify questions.<\/p><p>Catalin Costinas<br\/>Cluj Napoca, Romania <br\/><a href=\"mailto:hello@costinas.com\" title=\"Email me at hello@costinas.com\">hello@costinas.com<\/a><br\/><a href=\"https:\/\/www.linkedin.com\/in\/catalin-costinas-959560b0\/\" title=\"My Linkedin profile\">linkedin<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16305674130a4d2ea1-0",
+        "16305674130a4d2ea1-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true
+      }
     }
   },
   "order": [
@@ -112,6 +138,7 @@
     "16305662177c5c5f1e",
     "16305663810ca2c41e",
     "163056668234f3abf8",
-    "16305666856d5d2711"
+    "16305666856d5d2711",
+    "16305674130a4d2ea1"
   ]
 }
