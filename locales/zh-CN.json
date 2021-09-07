@@ -157,7 +157,9 @@
         "other": "找到“{{ terms }}”的 {{ count }} 条结果"
       },
       "title": "搜索结果",
-      "page": "页面"
+      "page": "页面",
+      "products": "产品",
+      "search_for": "搜索“{{ terms }}”"
     },
     "cart": {
       "cart": "购物车"
@@ -244,7 +246,7 @@
       "filter_button": "筛选",
       "max_price": "最高价格为 {{ price }}",
       "reset": "重置",
-      "to": "到",
+      "to": "收件人",
       "use_fewer_filters_html": "减少使用的筛选条件数量或<a class=\"{{ class }}\" href=\"{{ link }}\">清除所有内容</a>",
       "product_count": {
         "one": "{{ product_count }}/{{ count }} 件产品",
