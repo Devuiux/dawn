@@ -14,132 +14,25 @@
         "swipe_on_mobile": false
       }
     },
-    "16305662177c5c5f1e": {
-      "type": "image-with-text",
-      "blocks": {
-        "16305662177c5c5f1e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Catalin Costinas<\/p>"
-          }
-        },
-        "16305662177c5c5f1e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Shopify Developer | Consultant"
-          }
-        }
-      },
-      "block_order": [
-        "16305662177c5c5f1e-1",
-        "16305662177c5c5f1e-0"
-      ],
+    "1631034131ba099daf": {
+      "type": "featured-collection",
       "settings": {
-        "image": "shopify:\/\/shop_images\/catalin-2.jpg",
-        "height": "adapt",
-        "color_scheme": "background-1",
-        "layout": "text_first"
-      }
-    },
-    "16305663810ca2c41e": {
-      "type": "rich-text",
-      "blocks": {
-        "16305663810ca2c41e-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Services",
-            "heading_size": "h2"
-          }
-        },
-        "16305663810ca2c41e-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Theme Development<br\/>Complete Shopify Store Setup to get you up and running<br\/>Shopify Application Development \/ App Installation<br\/>Tweaking and modifying existing themes whether it is big or small<br\/>Performance optimization<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16305663810ca2c41e-0",
-        "16305663810ca2c41e-1"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
-    "163056668234f3abf8": {
-      "type": "featured-blog",
-      "settings": {
-        "heading": "Projects",
-        "blog": "projects",
-        "post_limit": 3,
-        "show_image": true,
-        "show_date": true,
-        "show_author": false,
-        "soft_background": false,
-        "show_view_all": true
-      }
-    },
-    "16305666856d5d2711": {
-      "type": "rich-text",
-      "blocks": {
-        "16305666856d5d2711-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "About me",
-            "heading_size": "h2"
-          }
-        },
-        "16305666856d5d2711-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>In this intense period of online development the entrepreneurs who succeed are those who understand the need for simple innovative solutions and fast implementation. I’ve always developed ways for fast implementation to save time both for me and my clients and built projects with performance and maintainability in mind.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16305666856d5d2711-0",
-        "16305666856d5d2711-1"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
-      }
-    },
-    "16305674130a4d2ea1": {
-      "type": "rich-text",
-      "disabled": true,
-      "blocks": {
-        "16305674130a4d2ea1-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Contact",
-            "heading_size": "h2"
-          }
-        },
-        "16305674130a4d2ea1-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>I can help you with all your Shopify questions.<\/p><p>Catalin Costinas<br\/>Cluj Napoca, Romania <br\/><a href=\"mailto:hello@costinas.com\" title=\"Email me at hello@costinas.com\">hello@costinas.com<\/a><br\/><a href=\"https:\/\/www.linkedin.com\/in\/catalin-costinas-959560b0\/\" title=\"My Linkedin profile\">linkedin<\/a><\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "16305674130a4d2ea1-0",
-        "16305674130a4d2ea1-1"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true
+        "title": "Featured collection",
+        "collection": "ad-all-test",
+        "products_to_show": 4,
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false,
+        "show_rating": false
       }
     }
   },
   "order": [
     "multi_column",
-    "16305662177c5c5f1e",
-    "16305663810ca2c41e",
-    "163056668234f3abf8",
-    "16305666856d5d2711",
-    "16305674130a4d2ea1"
+    "1631034131ba099daf"
   ]
 }
