@@ -47,14 +47,15 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {
           }
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Materials",
-            "icon": "serving_dish",
+            "heading": "RECYCLED FABRIC",
+            "icon": "none",
             "content": "",
             "page": ""
           }
@@ -62,8 +63,8 @@
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Shipping & Returns",
-            "icon": "truck",
+            "heading": "MADE IN SPAIN",
+            "icon": "none",
             "content": "",
             "page": ""
           }
@@ -71,19 +72,10 @@
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
+            "heading": "CARE GUIDE",
+            "icon": "none",
             "content": "",
             "page": ""
-          }
-        },
-        "collapsible-row-3": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Care Instructions",
-            "icon": "heart",
-            "content": "",
-            "page": "landing-ttestt-1"
           }
         },
         "share": {
@@ -105,7 +97,6 @@
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
-        "collapsible-row-3",
         "share"
       ],
       "settings": {
@@ -115,7 +106,7 @@
         "media_fit": "contain",
         "gallery_layout": "columns",
         "media_position": "left",
-        "image_zoom": "none",
+        "image_zoom": "lightbox",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
