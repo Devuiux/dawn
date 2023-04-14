@@ -50,7 +50,7 @@
           "settings": {
             "heading": "RECYCLED FABRIC",
             "icon": "none",
-            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget magna eu risus feugiat tempus. Aliquam ullamcorper, magna ac <em><strong>venenatis rhoncus<\/strong><\/em>, elit leo eleifend enim, quis euismod dolor augue elementum erat. Duis magna nulla, tempor ac aliquet eu, finibus ac magna.<\/p>",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget magna eu risus feugiat tempus. Aliquam ullamcorper, magna ac <strong>venenatis rhoncus<\/strong>, elit leo eleifend enim, quis euismod dolor augue elementum erat. Duis magna nulla, tempor ac aliquet eu, finibus ac magna.<\/p>",
             "page": ""
           }
         },
@@ -68,7 +68,7 @@
           "settings": {
             "heading": "CARE GUIDE",
             "icon": "none",
-            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget magna eu risus feugiat tempus. <strong>Aliquam ullamcorper<\/strong>, magna ac venenatis rhoncus, elit leo eleifend enim, quis euismod dolor <em>augue elementum<\/em> erat. Duis magna nulla, tempor ac aliquet eu, finibus ac magna.<\/p>",
+            "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget magna eu risus feugiat tempus. <strong>Aliquam ullamcorper<\/strong>, magna ac venenatis rhoncus, elit leo eleifend enim, quis euismod dolor <a href=\"\/pages\/alpha-pixel-product-feed\" title=\"Alpha Pixel Product Feed\">augue elementum<\/a> erat. Duis magna nulla, tempor ac aliquet eu, finibus ac magna.<\/p>",
             "page": ""
           }
         }
