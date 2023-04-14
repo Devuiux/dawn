@@ -48,27 +48,27 @@
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "RECYCLED <u>FABRIC<\/u>",
+            "heading": "RECYCLED FABRIC",
             "icon": "none",
-            "content": "",
+            "content": "<p><strong>Lorem Ipsum <\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
             "page": ""
           }
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "<u>MADE<\/u> IN SPAIN",
+            "heading": "MADE IN SPAIN",
             "icon": "none",
-            "content": "",
+            "content": "<p><strong>Lorem Ipsum <\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
             "page": ""
           }
         },
         "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "<u>CARE<\/u> GUIDE",
+            "heading": "CARE GUIDE",
             "icon": "none",
-            "content": "",
+            "content": "<p><strong>Lorem Ipsum <\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.<\/p>",
             "page": ""
           }
         }
