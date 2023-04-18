@@ -30,8 +30,8 @@ menu-drawer > details[open] > summary::before {
   transform: translateX(-100%);
   visibility: hidden;
   z-index: 3;
-  left: 0;
-  top: 100%;
+  left: 2rem;
+  top: 0;
   width: calc(100vw - 4rem);
   padding: 0;
   border-width: 0 var(--drawer-border-width) 0 0;
