@@ -1,6 +1,12 @@
 .header__icon--menu {
   position: initial;
 }
+.menu-open .header__icon--menu span {
+  position: absolute;
+  right: calc(4rem + 8px);
+  top: 0;
+  z-index: 4;
+}
 
 .js menu-drawer > details > summary::before,
 .js menu-drawer > details[open]:not(.menu-opening) > summary::before {
