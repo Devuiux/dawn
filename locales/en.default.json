@@ -268,7 +268,7 @@
       }
     },
     "cart": {
-      "title": "Your Pitayas :-)",
+      "title": "Your cart",
       "caption": "Cart items",
       "remove_title": "Remove {{ title }}",
       "subtotal": "Subtotal",
