@@ -34,7 +34,8 @@ menu-drawer > details[open] > summary::before {
   top: 0;
   width: calc(100vw - 4rem);
   padding: 0;
-  border-width: 0 var(--drawer-border-width) 0 0;
+  /* border-width: 0 var(--drawer-border-width) 0 0; */
+  border-width: var(--drawer-border-width);
   /* background-color: rgb(var(--color-background)); */
   background: rgb(var(--color-background));
   background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgba(252,255,247,1) 48%, rgba(240,254,214,1) 66%, rgba(161,246,0,1) 100%);
