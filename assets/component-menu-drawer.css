@@ -27,10 +27,10 @@ menu-drawer > details[open] > summary::before {
 
 .menu-drawer {
   position: absolute;
-  transform: translateX(-100%);
+  transform: translate(-50%, -10rem);
   visibility: hidden;
   z-index: 3;
-  left: 2rem;
+  left: 50%;
   top: 0;
   width: calc(100vw - 4rem);
   padding: 0;
@@ -58,7 +58,7 @@ menu-drawer > details[open] > summary::before {
 .no-js details[open] > .menu-drawer,
 .js details[open].menu-opening > .menu-drawer,
 details[open].menu-opening > .menu-drawer__submenu {
-  transform: translateX(0);
+  transform: translate(-50%, 0);
   visibility: visible;
 }
 
