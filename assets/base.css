@@ -2460,13 +2460,10 @@ product-info .loading-overlay:not(.hidden) ~ *,
   outline: none;
 }
 
-.menu-open .header__heading {
-  z-index: 3;
-}
-
 .header__heading {
   margin: 0;
   line-height: 0;
+  z-index: 3;
 }
 
 .header > .header__heading-link {
