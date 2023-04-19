@@ -82,7 +82,7 @@ details[open].menu-opening > .menu-drawer__submenu {
 
   .menu-open .header__icon--menu span {
     /* right: calc(4rem + 8px); */
-    right: calc(50% - 20rem + 4rem + 8px);
+    right: calc(50% - 20rem + 4rem - 8px);
   }
 
   .no-js .menu-drawer {
