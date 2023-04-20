@@ -232,12 +232,12 @@ cart-drawer-items {
   content: '';
   border: 1px solid;
   position: absolute;
-  top: 0.25rem;
-  left: 0.25rem;
-  width: calc(100% - 0.5rem);
-  height: calc(100% - 0.5rem);
+  top: 0.3rem;
+  left: 0.3rem;
+  width: calc(100% - 0.6rem);
+  height: calc(100% - 0.6rem);
   border-radius: 80%;
-  transform: rotate3d(0, 1, 1, 45deg);
+  transform: rotate3d(0, 1, 1, 60deg);
 }
 
 .cart-drawer .cart-item:last-child {
