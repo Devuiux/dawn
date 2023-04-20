@@ -114,8 +114,10 @@ cart-drawer:not(.is-empty) .cart-drawer__collection {
 }
 
 .drawer__footer {
-  background-color: rgb(var(--color-background));
-  border-top: 0.1rem solid rgba(var(--color-foreground), 0.2);
+  /* background-color: rgb(var(--color-background)); */
+  background: rgb(255,255,255);
+  background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(252,255,247,1) 48%, rgba(240,254,214,1) 66%, rgba(161,246,0,1) 100%);
+  /* border-top: 0.1rem solid rgba(var(--color-foreground), 0.2); */
   padding: 1.5rem 0;
 }
 
