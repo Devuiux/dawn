@@ -230,7 +230,7 @@ cart-drawer-items {
 }
 .quantity__button:before {
   content: '';
-  border: 1px solid;
+  border: 1px solid rgba(var(--color-foreground), 1);
   position: absolute;
   top: 0.3rem;
   left: 0.3rem;
