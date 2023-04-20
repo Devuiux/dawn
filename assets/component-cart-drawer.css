@@ -160,6 +160,8 @@ cart-drawer {
   right: 0;
   bottom: 0;
   left: 0;
+  background: rgb(255,255,255);
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(252,255,247,1) 17%, rgba(240,254,214,1) 29%, rgba(194,249,91,1) 59%, rgba(161,246,0,1) 100%);
 }
 
 .cart-drawer__overlay:empty {
