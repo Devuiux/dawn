@@ -2029,6 +2029,7 @@ input[type='checkbox'] {
   min-height: calc((var(--inputs-border-width) * 2) + 4.5rem);
 }
 
+.cart-item__quantity-totals:after,
 .quantity:after {
   pointer-events: none;
   content: '';
@@ -2044,6 +2045,7 @@ input[type='checkbox'] {
   z-index: 1;
 }
 
+.cart-item__quantity-totals:before,
 .quantity:before {
   background: rgb(var(--color-background));
   pointer-events: none;
