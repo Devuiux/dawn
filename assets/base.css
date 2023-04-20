@@ -2032,6 +2032,10 @@ input[type='checkbox'] {
 .cart-item__quantity-totals {
   position: relative;
 }
+.cart-item__quantity-totals .quantity:after,
+.cart-item__quantity-totals .quantity:before {
+  content: none;
+}
 .cart-item__quantity-totals:after,
 .quantity:after {
   pointer-events: none;
