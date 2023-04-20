@@ -267,7 +267,7 @@ cart-drawer-items {
 
 .cart-drawer .cart-item .loading-overlay {
   right: 5px;
-  padding-top: 2.5rem;
+  /* padding-top: 2.5rem; */
 }
 
 .cart-drawer .cart-items td {
