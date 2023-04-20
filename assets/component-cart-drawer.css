@@ -225,6 +225,9 @@ cart-drawer-items {
   align-items: center;
 }
 
+.quantity__button {
+  position: relative;
+}
 .quantity__button:before {
   content: '';
   border: 1px solid;
