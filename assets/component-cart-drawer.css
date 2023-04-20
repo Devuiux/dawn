@@ -161,7 +161,7 @@ cart-drawer {
   bottom: 0;
   left: 0;
   background: rgb(255,255,255);
-  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(252,255,247,1) 17%, rgba(240,254,214,1) 29%, rgba(194,249,91,1) 59%, rgba(161,246,0,1) 100%);
+  background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(252,255,247,0.3071822478991597) 17%, rgba(240,254,214,0.27356880252100846) 29%, rgba(194,249,91,0.2623643207282913) 59%, rgba(161,246,0,0.29037552521008403) 100%);
 }
 
 .cart-drawer__overlay:empty {
