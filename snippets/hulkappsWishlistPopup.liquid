@@ -4,7 +4,7 @@
     <div class="wishlist-popup" data-hulkappsMyWishlistPopup>
         <div class="wishlist-modal modal-medium">
             <div class="wishlist-modal__content">
-                <div class="wishlist-modal__header" style="padding-top: 15px;">
+                <div class="wishlist-modal__header">
                     <h2 data-sidebarWidgetwishlisttitle>Your wishlist</h2>
                     <button class="close-popup" data-closeMyWishlistPopup2><span class="icon-wishlist-cross"></span></button>
                 </div>
@@ -84,10 +84,12 @@
     <div class="wishlist-popup wishlist-share-popup" data-HulkappsShare>
         <div class="wishlist-modal modal-small">
             <div class="wishlist-modal__content">
-                <button class="close-popup" data-closewishlistpopup><span class="icon-wishlist-cross" data-closeWishlistPopup></span></button>
+                <div class="wishlist-modal__header">
+                    <h2 data-hulkWishlistHeading>Share List Via Email</h2>
+                    <button class="close-popup" data-closeWishlistPopup><span class="icon-wishlist-cross"></span></button>
+                </div>
                 <div class="wishlist-modal__body">
                     <div class="wishlist-custom-email-popup">
-                        <h5 data-emailPopupTitle style="font-size: 20px;">Share List Via Email</h5>
                         <form action="/share-wishlist" method="post" class="floating-form" role="share-wishlist" data-HulkEmailForm>
                             <div class="floating-label">
                                 <input type="text" class="floating-input" placeholder=" " name="name" value="" aria-label="Search our store">
