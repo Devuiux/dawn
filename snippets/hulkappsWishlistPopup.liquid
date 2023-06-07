@@ -189,10 +189,13 @@
     <div class="wishlist-popup wishlist-share-popup" data-HulkappsSubscribe>
         <div class="wishlist-modal modal-small">
             <div class="wishlist-modal__content">
+                <div class="wishlist-modal__header">
+                    <h5 data-popupTitle>Subscribe and get alerts about your Wishlist</h5>
+                    <button class="close-popup" data-closeWishlistPopup><span class="icon-wishlist-cross"></span></button>
+                </div>
                 <button class="close-popup" data-closewishlistpopup><span class="icon-wishlist-cross" data-closeWishlistPopup></span></button>
                 <div class="wishlist-modal__body">
                     <div class="Subscribe-content">
-                        <h5 data-popupTitle>Subscribe and get alerts about your Wishlist</h5>
                         <p data-popupSubTitle>We will notify you on events like Low stock, Restock, Price drop or general reminders so that you don’t miss the deal</p>
                     </div>
                     <form action="/subscribe" method="post" class="input-group search-bar" role="subscribe" data-HulkSubscribeForm>
